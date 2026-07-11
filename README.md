@@ -13,4 +13,6 @@ python2 crack_zip.py<br><br>
 Join Our Facebook Group:<br>
 https://facebook.com/groups/spamming.termux.learning.point/
 
-𝑭𝒊𝒍𝒆 𝒃𝒚 𝑫𝒆𝑽𝑹𝑰𝑬𝑺
+𝑭𝒊𝒍𝒆 𝒃𝒚 𝑫𝒆𝑽𝑹𝑰𝑬𝑺 
+
+No Guarantee for any mistakes 
